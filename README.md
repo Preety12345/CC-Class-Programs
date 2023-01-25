@@ -1,2 +1,2 @@
 # CC-Class-Programs
-These are the c++ programs from class
+These are the c / c++ programs from class
